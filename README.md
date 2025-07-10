@@ -2,7 +2,7 @@
 
 This repository contains the official implementation for the paper:
 
-**"EcoMamba: Economical State-Space Blocks for Scalable Medical Image Segmentation"**
+**"EcoMamba-Net: Parameter-Efficient Architecture for Medical Image Segmentation"**
 
 📄 *Submitted to [PREMI]*
 
