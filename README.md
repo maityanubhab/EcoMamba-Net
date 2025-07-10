@@ -14,7 +14,7 @@ Stay tuned!
 
 ## Project Description
 
-EcoMamba introduces a lightweight and efficient Mamba-inspired state-space model tailored for 2D medical image segmentation. The design focuses on minimizing computational cost (GFLOPs) while maintaining high segmentation performance on benchmark datasets like ISIC 2018 and BTCV.
+EcoMamba introduces a lightweight and efficient Mamba-inspired state-space model tailored for 2D medical image segmentation. The design focuses on minimizing computational cost (GFLOPs) while maintaining high segmentation performance on benchmark datasets like ISIC 2018 and Kvsair-Seg.
 
 Key contributions:
 - EcoMamba blocks with depthwise convolution
@@ -24,7 +24,7 @@ Key contributions:
 
 We used the following datasets:
 - [ISIC 2018](https://challenge2018.isic-archive.com/)
-- [BTCV](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
+- [Kvsair-seg](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
 
 Instructions to download and preprocess datasets will be included with the final release.
 
