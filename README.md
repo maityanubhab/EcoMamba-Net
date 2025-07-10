@@ -1,4 +1,4 @@
-# EcoMamba: Economical State-Space Blocks for Scalable Medical Image Segmentation
+# EcoMamba-Net: Parameter-Efficient Architecture for Medical Image Segmentation
 
 This repository contains the official implementation for the paper:
 
