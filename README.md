@@ -17,7 +17,7 @@ Stay tuned!
 EcoMamba introduces a lightweight and efficient Mamba-inspired state-space model tailored for 2D medical image segmentation. The design focuses on minimizing computational cost (GFLOPs) while maintaining high segmentation performance on benchmark datasets like ISIC 2018 and BTCV.
 
 Key contributions:
-- LiteMamba blocks with depthwise convolution
+- EcoMamba blocks with depthwise convolution
 - Efficient attention block
 
 ## 📊 Datasets
