@@ -34,7 +34,7 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{eco2025,
-  title={EcoMamba: Economical State-Space Blocks for Scalable Medical Image Segmentation},
+  title={EcoMamba-Net: Parameter-Efficient Architecture for Medical Image Segmentation},
   author={Anubhab Maity and Sushmita Mitra},
   journal={Under Review},
   year={2025}
