@@ -35,7 +35,7 @@ If you find this work useful, please cite:
 ```bibtex
 @article{eco2025,
   title={EcoMamba-Net: Parameter-Efficient Architecture for Medical Image Segmentation},
-  author={Anubhab Maity and Sushmita Mitra},
+  author={Anubhab Maity, Pallabi Dutta and Sushmita Mitra},
   journal={Under Review},
   year={2025}
 }
