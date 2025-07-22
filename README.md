@@ -31,7 +31,7 @@ Instructions to download and preprocess datasets will be included with the final
 ## 📚 Citation
 
 If you find this work useful, please cite:
-
+<!--
 ```bibtex
 @article{eco2025,
   title={EcoMamba-Net: Parameter-Efficient Architecture for Medical Image Segmentation},
@@ -39,3 +39,4 @@ If you find this work useful, please cite:
   journal={Under Review},
   year={2025}
 }
+-->
