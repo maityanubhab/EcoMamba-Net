@@ -2,7 +2,7 @@
 ### Parameter-Efficient Architecture for Medical Image Segmentation
 
 📄 **Published at PREMI (Pattern Recognition and Machine Intelligence)**  
-🔗 DOI: *To be updated*
+🔗 DOI: * https://doi.org/10.1007/978-3-032-18480-1*
 
 ---
 
