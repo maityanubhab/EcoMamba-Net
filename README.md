@@ -88,10 +88,11 @@ The model is designed to be **modular, extensible, and easy to integrate** into 
 If you find this work useful, please cite:
 
 ```bibtex
-@article{eco2025,
-  title={EcoMamba-Net: Parameter-Efficient Architecture for Medical Image Segmentation},
-  author={Anubhab Maity and Pallabi Dutta and Sushmita Mitra},
-  journal={PREMI},
+@inproceedings{maity2025ecomamba,
+  title={EcoMamba-Net: A Parameter-Efficient Architecture for Medical Image Segmentation},
+  author={Maity, Anubhab and Dutta, Pallabi and Mitra, Sushmita},
+  booktitle={International Conference on Pattern Recognition and Machine Intelligence},
+  pages={306--314},
   year={2025},
-  note={DOI will be updated}
+  organization={Springer}
 }
